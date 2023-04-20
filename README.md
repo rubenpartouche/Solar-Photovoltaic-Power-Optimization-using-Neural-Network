@@ -7,7 +7,7 @@ The goal of this project is to construct and train a neural network predicting s
 ![image](https://user-images.githubusercontent.com/116780853/204201238-49c59c40-75d4-404c-a408-cc8da627f61a.png)
 
 Part 1 of this project considers the performance of the solar panel design show above. The panel
-contains 72 solar cells connected in series, each with an area of 173 cm2. Performance test data for this type of unit is provided as a dataset that includes the following performance parameters:
+contains 72 solar cells connected in series, the panel has an area of 173 cm2. Performance test data for this type of unit is provided as a dataset that includes the following performance parameters:
 
 Specified operating parameters:
 - Outside air temperature, Tair (°C)
